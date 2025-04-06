@@ -29,7 +29,6 @@ Make sure you have the following installed on your machine:
 ### Cloning the Repository
 ```bash
 git clone https://github.com/shivengoomer/CodeSeva.git
-cd brainwave
 ```
 
 ### Installation
